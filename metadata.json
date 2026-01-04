@@ -1,0 +1,9 @@
+{
+  "name": "FedPolyAdo CS ND2 Portal",
+  "description": "A comprehensive student portal for the Computer Science ND2 department at Federal Polytechnic Ado-Ekiti, featuring attendance verification, timetable management, and AI-powered study guides.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
